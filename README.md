@@ -1,7 +1,7 @@
 # Markdown Previewer
 
 ### What is it?
-A responsive markdown editor created with React, and Marked, which is a compiler for parsing markdown.
+A responsive markdown editor created with React Hooks, and Marked, which is a compiler for parsing markdown.
 
 ### Objective:
 Build a React app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/GrZVVO.
