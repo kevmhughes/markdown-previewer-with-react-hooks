@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/markdown-previewer-with-react-hooks/static/css/main.3a7d3229.css",
+    "main.js": "/markdown-previewer-with-react-hooks/static/js/main.83b81dee.js",
+    "static/js/787.a760eff9.chunk.js": "/markdown-previewer-with-react-hooks/static/js/787.a760eff9.chunk.js",
+    "index.html": "/markdown-previewer-with-react-hooks/index.html",
+    "main.3a7d3229.css.map": "/markdown-previewer-with-react-hooks/static/css/main.3a7d3229.css.map",
+    "main.83b81dee.js.map": "/markdown-previewer-with-react-hooks/static/js/main.83b81dee.js.map",
+    "787.a760eff9.chunk.js.map": "/markdown-previewer-with-react-hooks/static/js/787.a760eff9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a7d3229.css",
+    "static/js/main.83b81dee.js"
+  ]
+}
